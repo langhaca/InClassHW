@@ -8,7 +8,7 @@
 
 CoolClass::CoolClass(void)
 {
-
+{{
 
 }
 
